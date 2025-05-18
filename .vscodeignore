@@ -1,6 +1,2 @@
-# Ignore dev tools/configs
 .vscode/
 .vscodeignore
-
-# Ignore asset drafts
-#assets/
