@@ -1,4 +1,8 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AGameDevPhilip/abyss-tweaked"
+  },
   "name": "abyss-tweaked",
   "displayName": "Abyss Tweaked",
   "description": "A custom version of the Abyss theme with better colors.",
