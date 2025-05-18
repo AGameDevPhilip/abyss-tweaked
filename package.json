@@ -1,0 +1,25 @@
+{
+  "name": "abyss-tweaked",
+  "displayName": "Abyss Tweaked",
+  "description": "A custom version of the Abyss theme with better colors.",
+  "icon": "assets/icon6.png",
+  "version": "0.2.1",
+  "publisher": "filip-bydalek",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyss Tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abyss-color-theme.json"
+      }
+    ]
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://buymeacoffee.com/yourname"
+  }
+}
