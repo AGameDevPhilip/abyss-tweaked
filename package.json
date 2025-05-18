@@ -7,7 +7,7 @@
   "displayName": "Abyss Tweaked",
   "description": "A custom version of the Abyss theme with better colors.",
   "icon": "assets/icon6.png",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "publisher": "filip-bydalek",
   "engines": {
     "vscode": "^1.50.0"
